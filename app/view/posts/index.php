@@ -1,0 +1,1 @@
+<h1>This is a index page of Pages controller!</h1>
